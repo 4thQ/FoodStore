@@ -38,6 +38,10 @@ The following **extensions** are implemented:
 
 *Video avaliable upon request*
 
+
+https://github.com/4thQ/FoodStore/assets/164560954/639e3361-88bc-4daf-8eb7-18fc7ea46b1e
+
+
 ## Notes
 
 
