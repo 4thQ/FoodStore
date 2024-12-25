@@ -17,6 +17,8 @@ A data-driven web application for managing a film database, built using MVC arch
 -  Database: MySQL (cloud-hosted)
 -  Cloud Hosting: Multi-cloud deployment using AWS and Google Cloud
 -  Data Formats: JSON, XML, Text
+  
+## ![image](https://github.com/user-attachments/assets/52288519-e816-4190-92f1-18acc8220921)
 
 
 
